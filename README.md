@@ -67,7 +67,7 @@ git clone https://github.com/kartikchoudhary1721/kartik2026B01010270
 **2. Navigate to the project folder**
 
 ```bash
-cd kartikchoudhary2026B01010270
+cd kartik2026B01010270
 ```
 
 **3. Install the required libraries**
